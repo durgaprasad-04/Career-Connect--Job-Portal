@@ -19,9 +19,13 @@ Career Connect is a full-stack job portal web application built using the MERN s
 
 🛠️ Tech Stack
 Frontend: React.js, CSS
+
 Backend: Node.js, Express.js
+
 Database: MongoDB
+
 Authentication: JWT
+
 Tools: Git, GitHub, Postman
 
 📁 Folder Structure
@@ -34,14 +38,19 @@ career-connect/
 📦 Installation & Setup
 1. Clone the Repository
 git clone https://github.com/yourusername/career-connect.git
+
 cd career-connect
-2. Setup Backend
-Copy
-Edit
+
+3. Setup Backend
 cd server
+
 npm install
+
 npm run start
-3. Setup Frontend
+
+5. Setup Frontend
 cd ../client
+
 npm install
+
 npm start
