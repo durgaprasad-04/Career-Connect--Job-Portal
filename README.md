@@ -33,7 +33,7 @@ Tools: Git, GitHub, Postman
 📁 Folder Structure
 
 career-connect/
-│
+
 ├── client/           # React frontend
 
 ├── server/           # Express backend
@@ -46,22 +46,22 @@ career-connect/
 
 1. Clone the Repository
 
-git clone https://github.com/yourusername/career-connect.git
+   git clone https://github.com/yourusername/career-connect.git
 
-cd career-connect
+   cd career-connect
 
 2. Setup Backend
 
-cd server
+   cd server
 
-npm install
+   npm install
 
-npm run start
+   npm run start
 
 3. Setup Frontend
 
-cd ../client
+   cd ../client
 
-npm install
+   npm install
 
-npm start
+   npm start
