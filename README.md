@@ -4,11 +4,17 @@ Career Connect is a full-stack job portal web application built using the MERN s
 
 🚀 Features
 🔐 Role-Based Authentication (Job Seeker / Employer)
+
 📄 Job Posting & Management (Employers)
+
 🧑‍💼 Job Browsing & Application (Job Seekers)
+
 📨 Secure Login/Register System using JWT
+
 📊 Responsive UI built with React
+
 ⚙️ RESTful APIs for backend operations
+
 🗃️ MongoDB Integration for storing user/job data
 
 🛠️ Tech Stack
